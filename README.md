@@ -1,8 +1,8 @@
 ## Bem-vindo(a) ao perfil do Junior Martins 😁
 <div>
    <a href="https://github.com/junior1982martins">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=junior1982martins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junior1982martins&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=junior1982martins&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junior1982martins&layout=compact&langs_count=6&theme=dark"/>
 </div>
     
 <div style="display: inline_block"><br>
